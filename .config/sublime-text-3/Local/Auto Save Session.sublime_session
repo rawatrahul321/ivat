@@ -1,0 +1,1057 @@
+{
+	"folder_history":
+	[
+		"/opt/pk",
+		"/opt"
+	],
+	"last_version": 3211,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 508.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"info",
+						"info_module"
+					],
+					[
+						"date",
+						"date_today1"
+					],
+					[
+						"store",
+						"stored"
+					],
+					[
+						"differ",
+						"difference"
+					],
+					[
+						"Date",
+						"date_today"
+					],
+					[
+						"check",
+						"check_out"
+					],
+					[
+						"email",
+						"email_from"
+					],
+					[
+						"st",
+						"street"
+					],
+					[
+						"sen",
+						"sent_attendance"
+					],
+					[
+						"mu",
+						"multi"
+					],
+					[
+						"ceh",
+						"check_out"
+					],
+					[
+						"Attan",
+						"Attendance"
+					],
+					[
+						"ch",
+						"check_out"
+					],
+					[
+						"employee",
+						"employee_id"
+					],
+					[
+						"to",
+						"toaddr"
+					],
+					[
+						"lab",
+						"lab_user"
+					],
+					[
+						"ir",
+						"ir_attachment"
+					],
+					[
+						"image",
+						"image_data"
+					],
+					[
+						"att",
+						"attachment_ids"
+					],
+					[
+						"lead",
+						"lead_id"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/js/ajax.js",
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons/backend_theme_v11/controllers/main.py",
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons/odoo_web_login/controllers/main.py",
+				"/opt/ivat_new/odoo-10.0/addons/crm/models/crm_lead.py",
+				"/ivatatt.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/test_script.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/crm/data/crm_data.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/security/ir.model.access.csv",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/views/hr_attendance_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/payroll_10/public_holiday.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import requests",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/security/mail_security.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/hr_employee.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/ir_attachment.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/ir_attachment_force_storage/__openerp__.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/hr_attendance.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/india_gst/views/gst_sale_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/ir_attachment_force_storage/pre_install.yml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard/mail_compose_message_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard/mail_compose_message.py",
+				"/root/att12.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/file-exchange-7.0/abstract_automatic_task/__openerp__.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import psycopg2"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 29.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 330.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"info",
+						"info_module"
+					],
+					[
+						"date",
+						"date_today1"
+					],
+					[
+						"store",
+						"stored"
+					],
+					[
+						"differ",
+						"difference"
+					],
+					[
+						"Date",
+						"date_today"
+					],
+					[
+						"check",
+						"check_out"
+					],
+					[
+						"email",
+						"email_from"
+					],
+					[
+						"st",
+						"street"
+					],
+					[
+						"sen",
+						"sent_attendance"
+					],
+					[
+						"mu",
+						"multi"
+					],
+					[
+						"ceh",
+						"check_out"
+					],
+					[
+						"Attan",
+						"Attendance"
+					],
+					[
+						"ch",
+						"check_out"
+					],
+					[
+						"employee",
+						"employee_id"
+					],
+					[
+						"to",
+						"toaddr"
+					],
+					[
+						"lab",
+						"lab_user"
+					],
+					[
+						"ir",
+						"ir_attachment"
+					],
+					[
+						"image",
+						"image_data"
+					],
+					[
+						"att",
+						"attachment_ids"
+					],
+					[
+						"lead",
+						"lead_id"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mail/controllers/main.py",
+					"settings":
+					{
+						"buffer_size": 12985,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/opt/pk",
+				"/opt/pk/opt",
+				"/opt/pk/opt/odoo",
+				"/opt/pk/opt/odoo/odoo-10.0",
+				"/opt/pk/opt/odoo/odoo-10.0/addons",
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mail",
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mail/controllers",
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mail/models"
+			],
+			"file_history":
+			[
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/js/ajax.js",
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons/backend_theme_v11/controllers/main.py",
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons/odoo_web_login/controllers/main.py",
+				"/opt/ivat_new/odoo-10.0/addons/crm/models/crm_lead.py",
+				"/ivatatt.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/test_script.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/crm/data/crm_data.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/security/ir.model.access.csv",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/views/hr_attendance_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/payroll_10/public_holiday.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import requests",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/security/mail_security.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/hr_employee.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/ir_attachment.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/ir_attachment_force_storage/__openerp__.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/hr_attendance.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/india_gst/views/gst_sale_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/ir_attachment_force_storage/pre_install.yml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard/mail_compose_message_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard/mail_compose_message.py",
+				"/root/att12.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/file-exchange-7.0/abstract_automatic_task/__openerp__.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import psycopg2"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/opt/pk"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mail/controllers/main.py",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 12985,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3375.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 29.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,65,24,705,560,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 330.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 7,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"info",
+						"info_module"
+					],
+					[
+						"date",
+						"date_today1"
+					],
+					[
+						"store",
+						"stored"
+					],
+					[
+						"differ",
+						"difference"
+					],
+					[
+						"Date",
+						"date_today"
+					],
+					[
+						"check",
+						"check_out"
+					],
+					[
+						"email",
+						"email_from"
+					],
+					[
+						"st",
+						"street"
+					],
+					[
+						"sen",
+						"sent_attendance"
+					],
+					[
+						"mu",
+						"multi"
+					],
+					[
+						"ceh",
+						"check_out"
+					],
+					[
+						"Attan",
+						"Attendance"
+					],
+					[
+						"ch",
+						"check_out"
+					],
+					[
+						"employee",
+						"employee_id"
+					],
+					[
+						"to",
+						"toaddr"
+					],
+					[
+						"lab",
+						"lab_user"
+					],
+					[
+						"ir",
+						"ir_attachment"
+					],
+					[
+						"image",
+						"image_data"
+					],
+					[
+						"att",
+						"attachment_ids"
+					],
+					[
+						"lead",
+						"lead_id"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "# -*- coding: utf-8 -*-\n# Part of Odoo. See LICENSE file for full copyright and licensing details.\n\nimport base64\nimport re\n\nfrom odoo import _, api, fields, models, SUPERUSER_ID, tools\nfrom odoo.tools.safe_eval import safe_eval\n\n\n# main mako-like expression pattern\nEXPRESSION_PATTERN = re.compile('(\\$\\{.+?\\})')\n\n\ndef _reopen(self, res_id, model, context=None):\n    # save original model in context, because selecting the list of available\n    # templates requires a model in context\n    context = dict(context or {}, default_model=model)\n    return {'type': 'ir.actions.act_window',\n            'view_mode': 'form',\n            'view_type': 'form',\n            'res_id': res_id,\n            'res_model': self._name,\n            'target': 'new',\n            'context': context,\n            }\n\n\nclass MailComposer(models.TransientModel):\n    \"\"\" Generic message composition wizard. You may inherit from this wizard\n        at model and view levels to provide specific features.\n\n        The behavior of the wizard depends on the composition_mode field:\n        - 'comment': post on a record. The wizard is pre-populated via ``get_record_data``\n        - 'mass_mail': wizard in mass mailing mode where the mail details can\n            contain template placeholders that will be merged with actual data\n            before being sent to each recipient.\n    \"\"\"\n    _name = 'mail.compose.message'\n    _inherit = 'mail.message'\n    _description = 'Email composition wizard'\n    _log_access = True\n    _batch_size = 500\n\n    @api.model\n    def default_get(self, fields):\n        \"\"\" Handle composition mode. Some details about context keys:\n            - comment: default mode, model and ID of a record the user comments\n                - default_model or active_model\n                - default_res_id or active_id\n            - reply: active_id of a message the user replies to\n                - default_parent_id or message_id or active_id: ID of the\n                    mail.message we reply to\n                - message.res_model or default_model\n                - message.res_id or default_res_id\n            - mass_mail: model and IDs of records the user mass-mails\n                - active_ids: record IDs\n                - default_model or active_model\n        \"\"\"\n        result = super(MailComposer, self).default_get(fields)\n\n        # v6.1 compatibility mode\n        result['composition_mode'] = result.get('composition_mode', self._context.get('mail.compose.message.mode', 'comment'))\n        result['model'] = result.get('model', self._context.get('active_model'))\n        result['res_id'] = result.get('res_id', self._context.get('active_id'))\n        result['parent_id'] = result.get('parent_id', self._context.get('message_id'))\n        if 'no_auto_thread' not in result and (result['model'] not in self.env or not hasattr(self.env[result['model']], 'message_post')):\n            result['no_auto_thread'] = True\n\n        # default values according to composition mode - NOTE: reply is deprecated, fall back on comment\n        if result['composition_mode'] == 'reply':\n            result['composition_mode'] = 'comment'\n        vals = {}\n        if 'active_domain' in self._context:  # not context.get() because we want to keep global [] domains\n            vals['use_active_domain'] = True\n            vals['active_domain'] = '%s' % self._context.get('active_domain')\n        if result['composition_mode'] == 'comment':\n            vals.update(self.get_record_data(result))\n\n        for field in vals:\n            if field in fields:\n                result[field] = vals[field]\n\n        # TDE HACK: as mailboxes used default_model='res.users' and default_res_id=uid\n        # (because of lack of an accessible pid), creating a message on its own\n        # profile may crash (res_users does not allow writing on it)\n        # Posting on its own profile works (res_users redirect to res_partner)\n        # but when creating the mail.message to create the mail.compose.message\n        # access rights issues may rise\n        # We therefore directly change the model and res_id\n        if result['model'] == 'res.users' and result['res_id'] == self._uid:\n            result['model'] = 'res.partner'\n            result['res_id'] = self.env.user.partner_id.id\n\n        if fields is not None:\n            [result.pop(field, None) for field in result.keys() if field not in fields]\n        return result\n\n    @api.model\n    def _get_composition_mode_selection(self):\n        return [('comment', 'Post on a document'),\n                ('mass_mail', 'Email Mass Mailing'),\n                ('mass_post', 'Post on Multiple Documents')]\n\n    composition_mode = fields.Selection(selection=_get_composition_mode_selection, string='Composition mode', default='comment',track_visibility='onchange')\n    partner_ids = fields.Many2many(\n        'res.partner', 'mail_compose_message_res_partner_rel',\n        'wizard_id', 'partner_id', 'Additional Contacts',track_visibility='onchange')\n    use_active_domain = fields.Boolean('Use active domain')\n    active_domain = fields.Text('Active domain', readonly=True,track_visibility='onchange')\n    attachment_ids = fields.Many2many(\n        'ir.attachment', 'mail_compose_message_ir_attachments_rel',\n        'wizard_id', 'attachment_id', 'Attachments',track_visibility='onchange')\n    is_log = fields.Boolean('Log an Internal Note',\n                            help='Whether the message is an internal note (comment mode only)',track_visibility='onchange')\n    subject = fields.Char(default=False,track_visibility='onchange')\n    # file = fields.Binary(string=\"File Attachment\",store=True,track_visibility='onchange')\n    # file_name = fields.Char(string=\"File Name\",store=True,track_visibility='onchange')    \n    # mass mode options\n    notify = fields.Boolean('Notify followers', help='Notify followers of the document (mass post only)',track_visibility='onchange')\n    auto_delete = fields.Boolean('Delete Emails', help='Delete sent emails (mass mailing only)',track_visibility='onchange')\n    auto_delete_message = fields.Boolean('Delete Message Copy', help='Do not keep a copy of the email in the document communication history (mass mailing only)')\n    template_id = fields.Many2one(\n        'mail.template', 'Use template', index=True,\n        domain=\"[('model', '=', model)]\",track_visibility='onchange')\n    # mail_message updated fields\n    message_type = fields.Selection(default=\"comment\",track_visibility='onchange')\n    subtype_id = fields.Many2one(default=lambda self: self.sudo().env.ref('mail.mt_comment', raise_if_not_found=False).id,track_visibility='onchange')\n\n    @api.one\n    @api.onchange('file_name')\n    def send_own_mail(self):\n\n        import smtplib\n        from email.mime.multipart import MIMEMultipart\n        from email.mime.text import MIMEText\n        from email.mime.base import MIMEBase\n        from email import encoders\n        import os\n        from base64 import b64decode\n        b64 = self.file\n        print(\"----------------------\",b64)\n        b64 += \"=\" * ((4 - len(b64) % 4) % 4)\n        bytes = base64.b64decode(b64)\n        dr = \"/opt/odoo\"\n        name_initial = self.file_name\n        extension = \".pdf\"\n        shebang = \"\"\n        existing = os.listdir(dr)\n        n = 1\n        while True:\n            file = dr+\"/\"+name_initial+str(n).zfill(4)+extension\n            print(\"---------------------------file\",file)\n            if os.path.exists(file):\n                n = n+1\n            else:\n                f = open(file, 'wb')\n                f.write(bytes)\n\n            msg = MIMEMultipart()\n\n            b64 = file\n            print(\"-----------------------------------b64\",b64)\n            attachment = open(b64, \"rb\")\n            pa = MIMEBase('application', 'octet-stream')\n            pa.set_payload((attachment).read())\n\n            # encode into base64\n            encoders.encode_base64(pa)\n\n            pa.add_header('Content-Disposition', 'attachment', filename=b64)\n            pa.add_header('Content-Disposition', 'attachment', filename=b64)\n            fromaddr = 'rahul@ivat.com'\n            server = smtplib.SMTP('smtp.gmail.com: 587')\n            p = 'rahul99@@##'\n            subject = \"Employee Login Report \"\n            toaddr = \"rahul@ivat.com\"\n            msg = MIMEMultipart()\n            msg['From'] = fromaddr\n            msg['To'] = \", \".join(toaddr)\n            msg['Subject'] = subject\n            print(\"----------------------------------pa------------------\",pa)\n            msg.attach(pa)\n\n            # send the message\n            server.starttls()\n            server.login(fromaddr, p)\n            text = msg.as_string()\n            server.sendmail(fromaddr, toaddr, text)\n            server.quit()\n            break\n\n\n\n    @api.multi\n    def check_access_rule(self, operation):\n        \"\"\" Access rules of mail.compose.message:\n            - create: if\n                - model, no res_id, I create a message in mass mail mode\n            - then: fall back on mail.message acces rules\n        \"\"\"\n        # Author condition (CREATE (mass_mail))\n        if operation == 'create' and self._uid != SUPERUSER_ID:\n            # read mail_compose_message.ids to have their values\n            message_values = {}\n            self._cr.execute('SELECT DISTINCT id, model, res_id FROM \"%s\" WHERE id = ANY (%%s) AND res_id = 0' % self._table, (self.ids,))\n            for mid, rmod, rid in self._cr.fetchall():\n                message_values[mid] = {'model': rmod, 'res_id': rid}\n            # remove from the set to check the ids that mail_compose_message accepts\n            author_ids = [mid for mid, message in message_values.iteritems()\n                          if message.get('model') and not message.get('res_id')]\n            self = self.browse(list(set(self.ids) - set(author_ids)))  # not sure slef = ...\n\n        return super(MailComposer, self).check_access_rule(operation)\n\n    @api.multi\n    def _notify(self, force_send=False, user_signature=True):\n        \"\"\" Override specific notify method of mail.message, because we do\n            not want that feature in the wizard. \"\"\"\n        return\n\n    @api.model\n    def get_record_data(self, values):\n        \"\"\" Returns a defaults-like dict with initial values for the composition\n        wizard when sending an email related a previous email (parent_id) or\n        a document (model, res_id). This is based on previously computed default\n        values. \"\"\"\n        result, subject = {}, False\n        if values.get('parent_id'):\n            parent = self.env['mail.message'].browse(values.get('parent_id'))\n            result['record_name'] = parent.record_name,\n            subject = tools.ustr(parent.subject or parent.record_name or '')\n            if not values.get('model'):\n                result['model'] = parent.model\n            if not values.get('res_id'):\n                result['res_id'] = parent.res_id\n            partner_ids = values.get('partner_ids', list()) + [(4, id) for id in parent.partner_ids.ids]\n            if self._context.get('is_private') and parent.author_id:  # check message is private then add author also in partner list.\n                partner_ids += [(4, parent.author_id.id)]\n            result['partner_ids'] = partner_ids\n        elif values.get('model') and values.get('res_id'):\n            doc_name_get = self.env[values.get('model')].browse(values.get('res_id')).name_get()\n            result['record_name'] = doc_name_get and doc_name_get[0][1] or ''\n            subject = tools.ustr(result['record_name'])\n\n        re_prefix = _('Re:')\n        if subject and not (subject.startswith('Re:') or subject.startswith(re_prefix)):\n            subject = \"%s %s\" % (re_prefix, subject)\n        result['subject'] = subject\n\n        return result\n\n    #------------------------------------------------------\n    # Wizard validation and send\n    #------------------------------------------------------\n    # action buttons call with positionnal arguments only, so we need an intermediary function\n    # to ensure the context is passed correctly\n    @api.multi\n    def send_mail_action(self):\n        # TDE/ ???\n        return self.send_mail()\n\n    @api.multi\n    def send_mail(self, auto_commit=False):\n        \"\"\" Process the wizard content and proceed with sending the related\n            email(s), rendering any template patterns on the fly if needed. \"\"\"\n        for wizard in self:\n            # Duplicate attachments linked to the email.template.\n            # Indeed, basic mail.compose.message wizard duplicates attachments in mass\n            # mailing mode. But in 'single post' mode, attachments of an email template\n            # also have to be duplicated to avoid changing their ownership.\n            if wizard.attachment_ids and wizard.composition_mode != 'mass_mail' and wizard.template_id:\n                new_attachment_ids = []\n                for attachment in wizard.attachment_ids:\n                    if attachment in wizard.template_id.attachment_ids:\n                        new_attachment_ids.append(attachment.copy({'res_model': 'mail.compose.message', 'res_id': wizard.id}).id)\n                    else:\n                        new_attachment_ids.append(attachment.id)\n                    wizard.write({'attachment_ids': [(6, 0, new_attachment_ids)]})\n\n            # Mass Mailing\n            mass_mode = wizard.composition_mode in ('mass_mail', 'mass_post')\n\n            Mail = self.env['mail.mail']\n            ActiveModel = self.env[wizard.model if wizard.model else 'mail.thread']\n            if wizard.template_id:\n                # template user_signature is added when generating body_html\n                # mass mailing: use template auto_delete value -> note, for emails mass mailing only\n                Mail = Mail.with_context(mail_notify_user_signature=False)\n                ActiveModel = ActiveModel.with_context(mail_notify_user_signature=False, mail_auto_delete=wizard.template_id.auto_delete)\n            if not hasattr(ActiveModel, 'message_post'):\n                ActiveModel = self.env['mail.thread'].with_context(thread_model=wizard.model)\n            if wizard.composition_mode == 'mass_post':\n                # do not send emails directly but use the queue instead\n                # add context key to avoid subscribing the author\n                ActiveModel = ActiveModel.with_context(mail_notify_force_send=False, mail_create_nosubscribe=True)\n            # wizard works in batch mode: [res_id] or active_ids or active_domain\n            if mass_mode and wizard.use_active_domain and wizard.model:\n                res_ids = self.env[wizard.model].search(safe_eval(wizard.active_domain)).ids\n            elif mass_mode and wizard.model and self._context.get('active_ids'):\n                res_ids = self._context['active_ids']\n            else:\n                res_ids = [wizard.res_id]\n\n            batch_size = int(self.env['ir.config_parameter'].sudo().get_param('mail.batch_size')) or self._batch_size\n            sliced_res_ids = [res_ids[i:i + batch_size] for i in range(0, len(res_ids), batch_size)]\n\n            if wizard.composition_mode == 'mass_mail' or wizard.is_log or (wizard.composition_mode == 'mass_post' and not wizard.notify):  # log a note: subtype is False\n                subtype_id = False\n            elif wizard.subtype_id:\n                subtype_id = wizard.subtype_id.id\n            else:\n                subtype_id = self.sudo().env.ref('mail.mt_comment', raise_if_not_found=False).id\n\n            for res_ids in sliced_res_ids:\n                batch_mails = Mail\n                all_mail_values = wizard.get_mail_values(res_ids)\n                for res_id, mail_values in all_mail_values.iteritems():\n                    if wizard.composition_mode == 'mass_mail':\n                        batch_mails |= Mail.create(mail_values)\n                    else:\n                        ActiveModel.browse(res_id).message_post(\n                            message_type=wizard.message_type,\n                            subtype_id=subtype_id,\n                            **mail_values)\n\n                if wizard.composition_mode == 'mass_mail':\n                    batch_mails.send(auto_commit=auto_commit)\n\n        return {'type': 'ir.actions.act_window_close'}\n\n    @api.multi\n    def get_mail_values(self, res_ids):\n        \"\"\"Generate the values that will be used by send_mail to create mail_messages\n        or mail_mails. \"\"\"\n        self.ensure_one()\n        results = dict.fromkeys(res_ids, False)\n        rendered_values = {}\n        mass_mail_mode = self.composition_mode == 'mass_mail'\n\n        # render all template-based value at once\n        if mass_mail_mode and self.model:\n            rendered_values = self.render_message(res_ids)\n        # compute alias-based reply-to in batch\n        reply_to_value = dict.fromkeys(res_ids, None)\n        if mass_mail_mode and not self.no_auto_thread:\n            # reply_to_value = self.env['mail.thread'].with_context(thread_model=self.model).browse(res_ids).message_get_reply_to(default=self.email_from)\n            reply_to_value = self.env['mail.thread'].with_context(thread_model=self.model).message_get_reply_to(res_ids, default=self.email_from)\n\n        for res_id in res_ids:\n            # static wizard (mail.message) values\n            mail_values = {\n                'subject': self.subject,\n                'body': self.body or '',\n                'parent_id': self.parent_id and self.parent_id.id,\n                'partner_ids': [partner.id for partner in self.partner_ids],\n                'attachment_ids': [attach.id for attach in self.attachment_ids],\n                'author_id': self.author_id.id,\n                'email_from': self.email_from,\n                'record_name': self.record_name,\n                'no_auto_thread': self.no_auto_thread,\n                'mail_server_id': self.mail_server_id.id,\n            }\n\n            # mass mailing: rendering override wizard static values\n            if mass_mail_mode and self.model:\n                if self.model in self.env and hasattr(self.env[self.model], 'message_get_email_values'):\n                    mail_values.update(self.env[self.model].browse(res_id).message_get_email_values())\n                # keep a copy unless specifically requested, reset record name (avoid browsing records)\n                mail_values.update(notification=not self.auto_delete_message, model=self.model, res_id=res_id, record_name=False)\n                # auto deletion of mail_mail\n                if self.auto_delete or self.template_id.auto_delete:\n                    mail_values['auto_delete'] = True\n                # rendered values using template\n                email_dict = rendered_values[res_id]\n                mail_values['partner_ids'] += email_dict.pop('partner_ids', [])\n                mail_values.update(email_dict)\n                if not self.no_auto_thread:\n                    mail_values.pop('reply_to')\n                    if reply_to_value.get(res_id):\n                        mail_values['reply_to'] = reply_to_value[res_id]\n                if self.no_auto_thread and not mail_values.get('reply_to'):\n                    mail_values['reply_to'] = mail_values['email_from']\n                # mail_mail values: body -> body_html, partner_ids -> recipient_ids\n                mail_values['body_html'] = mail_values.get('body', '')\n                mail_values['recipient_ids'] = [(4, id) for id in mail_values.pop('partner_ids', [])]\n\n                # process attachments: should not be encoded before being processed by message_post / mail_mail create\n                mail_values['attachments'] = [(name, base64.b64decode(enc_cont)) for name, enc_cont in email_dict.pop('attachments', list())]\n                attachment_ids = []\n                for attach_id in mail_values.pop('attachment_ids'):\n                    new_attach_id = self.env['ir.attachment'].browse(attach_id).copy({'res_model': self._name, 'res_id': self.id})\n                    attachment_ids.append(new_attach_id.id)\n                mail_values['attachment_ids'] = self.env['mail.thread']._message_preprocess_attachments(\n                    mail_values.pop('attachments', []),\n                    attachment_ids, 'mail.message', 0)\n\n            results[res_id] = mail_values\n        return results\n\n    #------------------------------------------------------\n    # Template methods\n    #------------------------------------------------------\n\n    @api.multi\n    @api.onchange('template_id')\n    def onchange_template_id_wrapper(self):\n        self.ensure_one()\n        values = self.onchange_template_id(self.template_id.id, self.composition_mode, self.model, self.res_id)['value']\n        for fname, value in values.iteritems():\n            setattr(self, fname, value)\n\n    @api.multi\n    def onchange_template_id(self, template_id, composition_mode, model, res_id):\n        \"\"\" - mass_mailing: we cannot render, so return the template values\n            - normal mode: return rendered values\n            /!\\ for x2many field, this onchange return command instead of ids\n        \"\"\"\n        if template_id and composition_mode == 'mass_mail':\n            template = self.env['mail.template'].browse(template_id)\n            fields = ['subject', 'body_html', 'email_from', 'reply_to', 'mail_server_id']\n            values = dict((field, getattr(template, field)) for field in fields if getattr(template, field))\n            if template.attachment_ids:\n                values['attachment_ids'] = [att.id for att in template.attachment_ids]\n            if template.mail_server_id:\n                values['mail_server_id'] = template.mail_server_id.id\n            if template.user_signature and 'body_html' in values:\n                signature = self.env.user.signature\n                values['body_html'] = tools.append_content_to_html(values['body_html'], signature, plaintext=False)\n        elif template_id:\n            values = self.generate_email_for_composer(template_id, [res_id])[res_id]\n            # transform attachments into attachment_ids; not attached to the document because this will\n            # be done further in the posting process, allowing to clean database if email not send\n            Attachment = self.env['ir.attachment']\n            for attach_fname, attach_datas in values.pop('attachments', []):\n                data_attach = {\n                    'name': attach_fname,\n                    'datas': attach_datas,\n                    'datas_fname': attach_fname,\n                    'res_model': 'mail.compose.message',\n                    'res_id': 0,\n                    'type': 'binary',  # override default_type from context, possibly meant for another model!\n                }\n                values.setdefault('attachment_ids', list()).append(Attachment.create(data_attach).id)\n        else:\n            default_values = self.with_context(default_composition_mode=composition_mode, default_model=model, default_res_id=res_id).default_get(['composition_mode', 'model', 'res_id', 'parent_id', 'partner_ids', 'subject', 'body', 'email_from', 'reply_to', 'attachment_ids', 'mail_server_id'])\n            values = dict((key, default_values[key]) for key in ['subject', 'body', 'partner_ids', 'email_from', 'reply_to', 'attachment_ids', 'mail_server_id'] if key in default_values)\n\n        if values.get('body_html'):\n            values['body'] = values.pop('body_html')\n\n        # This onchange should return command instead of ids for x2many field.\n        # ORM handle the assignation of command list on new onchange (api.v8),\n        # this force the complete replacement of x2many field with\n        # command and is compatible with onchange api.v7\n        values = self._convert_to_write(values)\n\n        return {'value': values}\n\n    @api.multi\n    def save_as_template(self):\n        \"\"\" hit save as template button: current form value will be a new\n            template attached to the current document. \"\"\"\n        for record in self:\n            models = self.env['ir.model'].search([('model', '=', record.model or 'mail.message')])\n            model_name = ''\n            if models:\n                model_name = models.name\n            template_name = \"%s: %s\" % (model_name, tools.ustr(record.subject))\n            values = {\n                'name': template_name,\n                'subject': record.subject or False,\n                'body_html': record.body or False,\n                'model_id': models.id or False,\n                'attachment_ids': [(6, 0, [att.id for att in record.attachment_ids])],\n            }\n            template = self.env['mail.template'].create(values)\n            # generate the saved template\n            record.write({'template_id': template.id})\n            record.onchange_template_id_wrapper()\n            return _reopen(self, record.id, record.model, context=self._context)\n\n    #------------------------------------------------------\n    # Template rendering\n    #------------------------------------------------------\n\n    @api.multi\n    def render_message(self, res_ids):\n        \"\"\"Generate template-based values of wizard, for the document records given\n        by res_ids. This method is meant to be inherited by email_template that\n        will produce a more complete dictionary, using Jinja2 templates.\n\n        Each template is generated for all res_ids, allowing to parse the template\n        once, and render it multiple times. This is useful for mass mailing where\n        template rendering represent a significant part of the process.\n\n        Default recipients are also computed, based on mail_thread method\n        message_get_default_recipients. This allows to ensure a mass mailing has\n        always some recipients specified.\n\n        :param browse wizard: current mail.compose.message browse record\n        :param list res_ids: list of record ids\n\n        :return dict results: for each res_id, the generated template values for\n                              subject, body, email_from and reply_to\n        \"\"\"\n        self.ensure_one()\n        multi_mode = True\n        if isinstance(res_ids, (int, long)):\n            multi_mode = False\n            res_ids = [res_ids]\n\n        subjects = self.render_template(self.subject, self.model, res_ids)\n        bodies = self.render_template(self.body, self.model, res_ids, post_process=True)\n        emails_from = self.render_template(self.email_from, self.model, res_ids)\n        replies_to = self.render_template(self.reply_to, self.model, res_ids)\n        default_recipients = {}\n        if not self.partner_ids:\n            default_recipients = self.env['mail.thread'].message_get_default_recipients(res_model=self.model, res_ids=res_ids)\n\n        results = dict.fromkeys(res_ids, False)\n        for res_id in res_ids:\n            results[res_id] = {\n                'subject': subjects[res_id],\n                'body': bodies[res_id],\n                'email_from': emails_from[res_id],\n                'reply_to': replies_to[res_id],\n            }\n            results[res_id].update(default_recipients.get(res_id, dict()))\n\n        # generate template-based values\n        if self.template_id:\n            template_values = self.generate_email_for_composer(\n                self.template_id.id, res_ids,\n                fields=['email_to', 'partner_to', 'email_cc', 'attachment_ids', 'mail_server_id'])\n        else:\n            template_values = {}\n\n        for res_id in res_ids:\n            if template_values.get(res_id):\n                # recipients are managed by the template\n                results[res_id].pop('partner_ids')\n                results[res_id].pop('email_to')\n                results[res_id].pop('email_cc')\n                # remove attachments from template values as they should not be rendered\n                template_values[res_id].pop('attachment_ids', None)\n            else:\n                template_values[res_id] = dict()\n            # update template values by composer values\n            template_values[res_id].update(results[res_id])\n\n        return multi_mode and template_values or template_values[res_ids[0]]\n\n    @api.model\n    def generate_email_for_composer(self, template_id, res_ids, fields=None):\n        \"\"\" Call email_template.generate_email(), get fields relevant for\n            mail.compose.message, transform email_cc and email_to into partner_ids \"\"\"\n        multi_mode = True\n        if isinstance(res_ids, (int, long)):\n            multi_mode = False\n            res_ids = [res_ids]\n\n        if fields is None:\n            fields = ['subject', 'body_html', 'email_from', 'email_to', 'partner_to', 'email_cc',  'reply_to', 'attachment_ids', 'mail_server_id']\n        returned_fields = fields + ['partner_ids', 'attachments']\n        values = dict.fromkeys(res_ids, False)\n\n        template_values = self.env['mail.template'].with_context(tpl_partners_only=True).browse(template_id).generate_email(res_ids, fields=fields)\n        for res_id in res_ids:\n            res_id_values = dict((field, template_values[res_id][field]) for field in returned_fields if template_values[res_id].get(field))\n            res_id_values['body'] = res_id_values.pop('body_html', '')\n            values[res_id] = res_id_values\n\n        return multi_mode and values or values[res_ids[0]]\n\n    @api.model\n    def render_template(self, template, model, res_ids, post_process=False):\n        return self.env['mail.template'].render_template(template, model, res_ids, post_process=post_process)\n",
+					"file": "/opt/ivat_india/odoo-10.0/addons/mail/wizard/mail_compose_message.py",
+					"file_size": 29471,
+					"file_write_time": 132245919220344477,
+					"settings":
+					{
+						"buffer_size": 29475,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/ivat/opt/odoo/odoo-10.0/addons/crm/wizard/crm_activity_log.py",
+					"settings":
+					{
+						"buffer_size": 4004,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/ivat_india/odoo-10.0/addons/mail/wizard/mail_compose_message_view.xml",
+					"settings":
+					{
+						"buffer_size": 6901,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/opt",
+				"/opt/ivat",
+				"/opt/ivat/opt",
+				"/opt/ivat/opt/odoo",
+				"/opt/ivat/opt/odoo/odoo-10.0",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/crm",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/crm/models",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/crm/wizard",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/models",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard",
+				"/opt/ivat_india",
+				"/opt/ivat_india/odoo-10.0",
+				"/opt/ivat_india/odoo-10.0/addons",
+				"/opt/ivat_india/odoo-10.0/addons/mail",
+				"/opt/ivat_india/odoo-10.0/addons/mail/models",
+				"/opt/ivat_india/odoo-10.0/addons/mail/wizard"
+			],
+			"file_history":
+			[
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/js/ajax.js",
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons/backend_theme_v11/controllers/main.py",
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons/odoo_web_login/controllers/main.py",
+				"/opt/ivat_new/odoo-10.0/addons/crm/models/crm_lead.py",
+				"/ivatatt.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/test_script.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/crm/data/crm_data.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/security/ir.model.access.csv",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/views/hr_attendance_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/payroll_10/public_holiday.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import requests",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/security/mail_security.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/hr_employee.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/ir_attachment.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/ir_attachment_force_storage/__openerp__.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/hr_attendance.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/india_gst/views/gst_sale_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/ir_attachment_force_storage/pre_install.yml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard/mail_compose_message_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard/mail_compose_message.py",
+				"/root/att12.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/file-exchange-7.0/abstract_automatic_task/__openerp__.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import psycopg2"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/opt"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/opt/ivat_india/odoo-10.0/addons/mail/wizard/mail_compose_message.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 29475,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5748,
+										5748
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1665.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/opt/ivat/opt/odoo/odoo-10.0/addons/crm/wizard/crm_activity_log.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4004,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										216,
+										216
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/opt/ivat_india/odoo-10.0/addons/mail/wizard/mail_compose_message_view.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6901,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8,
+										8
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 29.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,634,478,1274,986,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 330.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

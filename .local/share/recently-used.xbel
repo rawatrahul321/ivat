@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///opt" added="2019-12-27T05:38:19Z" modified="2019-12-27T05:38:19Z" visited="2019-12-27T08:02:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-12-27T05:38:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/ivat/opt/odoo/odoo-10.0/addons/mail/views/google_drive.py" added="2019-12-30T04:49:35Z" modified="2019-12-30T04:49:35Z" visited="2019-12-30T05:15:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-12-30T04:49:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/test_script.py" added="2019-12-30T05:15:47Z" modified="2019-12-30T05:15:47Z" visited="2019-12-30T05:15:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-12-30T05:15:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import%20requests" added="2020-01-03T05:34:05Z" modified="2020-01-03T05:34:05Z" visited="2020-01-03T05:42:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-01-03T05:34:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import%20psycopg2" added="2020-01-03T07:37:12Z" modified="2020-01-03T07:37:12Z" visited="2020-01-03T12:42:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-01-03T07:37:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///ivatatt.py" added="2020-01-06T10:02:54Z" modified="2020-01-06T10:02:54Z" visited="2020-01-06T12:43:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-01-06T10:02:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///root/att12.py" added="2020-01-08T09:48:57Z" modified="2020-01-14T05:43:22Z" visited="2020-01-08T12:43:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-01-13T08:40:37Z" count="5"/>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2020-01-14T05:43:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/ivat_new" added="2020-01-14T05:59:07Z" modified="2020-01-14T05:59:07Z" visited="2020-01-14T05:59:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2020-01-14T05:59:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/pk" added="2020-01-14T08:55:03Z" modified="2020-01-27T06:40:20Z" visited="2020-01-14T08:55:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2020-01-14T08:55:03Z" count="1"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-01-27T06:40:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/ivat_india" added="2020-01-21T05:03:22Z" modified="2020-01-21T05:03:22Z" visited="2020-01-21T05:03:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2020-01-21T05:03:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/js/ajax.js" added="2020-01-27T06:56:39Z" modified="2020-01-27T06:56:39Z" visited="2020-01-27T06:56:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-01-27T06:56:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/xml/template.xml" added="2020-01-27T06:59:11Z" modified="2020-01-27T06:59:11Z" visited="2020-01-27T06:59:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-01-27T06:59:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

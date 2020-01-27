@@ -1,0 +1,829 @@
+{
+	"folder_history":
+	[
+		"/opt/pk",
+		"/opt"
+	],
+	"last_version": 3211,
+	"last_window_id": 5,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"date",
+						"date_today1"
+					],
+					[
+						"store",
+						"stored"
+					],
+					[
+						"differ",
+						"difference"
+					],
+					[
+						"Date",
+						"date_today"
+					],
+					[
+						"check",
+						"check_out"
+					],
+					[
+						"email",
+						"email_from"
+					],
+					[
+						"st",
+						"street"
+					],
+					[
+						"sen",
+						"sent_attendance"
+					],
+					[
+						"mu",
+						"multi"
+					],
+					[
+						"ceh",
+						"check_out"
+					],
+					[
+						"Attan",
+						"Attendance"
+					],
+					[
+						"ch",
+						"check_out"
+					],
+					[
+						"employee",
+						"employee_id"
+					],
+					[
+						"to",
+						"toaddr"
+					],
+					[
+						"lab",
+						"lab_user"
+					],
+					[
+						"ir",
+						"ir_attachment"
+					],
+					[
+						"image",
+						"image_data"
+					],
+					[
+						"att",
+						"attachment_ids"
+					],
+					[
+						"lead",
+						"lead_id"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/opt/ivat_new/odoo-10.0/addons/crm/models/crm_lead.py",
+				"/ivatatt.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/test_script.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/crm/data/crm_data.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/security/ir.model.access.csv",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/views/hr_attendance_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/payroll_10/public_holiday.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import requests",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/security/mail_security.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/hr_employee.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/ir_attachment.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/ir_attachment_force_storage/__openerp__.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/hr_attendance.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/india_gst/views/gst_sale_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/ir_attachment_force_storage/pre_install.yml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard/mail_compose_message_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard/mail_compose_message.py",
+				"/root/att12.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/file-exchange-7.0/abstract_automatic_task/__openerp__.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import psycopg2"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"database",
+					"str",
+					"print",
+					"file",
+					"attachment_id",
+					"wizard_id",
+					"mail_compose_message_ir_attachments_rel",
+					"ir.attachment",
+					"message_id",
+					"message_attachment_rel",
+					"hr.public.holi",
+					" =",
+					"x",
+					"\",",
+					"date_today1",
+					"    \t\t",
+					"#",
+					"crm.crm",
+					"_file_write",
+					"os.path.dirname(os.path.realpath(__file__)) ",
+					"menuitem",
+					"res_model",
+					"_file_write",
+					"_file_read",
+					"_fiel_read",
+					"create",
+					"type = fields",
+					"storage()",
+					".force_storage()",
+					"_process_mass_mailing_queue",
+					"attendance_action",
+					"eturn self.attendance_action(next_action)",
+					"hr_attendance_action_my_attendances",
+					"submi",
+					"@api.model",
+					"_check_contents",
+					"checksum",
+					"encode",
+					"lab_user",
+					"author_id",
+					"User",
+					"author_id",
+					"Author",
+					"author",
+					"action_view_mail_mail",
+					"mail.action_view_mail_mail",
+					"mail.action_view_mail_mail\t",
+					"location",
+					"_compute_datas",
+					"ir.attachment",
+					"attachment_ids",
+					" r = open(full_path,'rb').read().encode('base64')test ",
+					"ir.attachment",
+					"action_view_mail_message",
+					"/",
+					"/home",
+					"attachment_ids",
+					"next_activity_id",
+					"last_activity_id"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 29.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 330.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"date",
+						"date_today1"
+					],
+					[
+						"store",
+						"stored"
+					],
+					[
+						"differ",
+						"difference"
+					],
+					[
+						"Date",
+						"date_today"
+					],
+					[
+						"check",
+						"check_out"
+					],
+					[
+						"email",
+						"email_from"
+					],
+					[
+						"st",
+						"street"
+					],
+					[
+						"sen",
+						"sent_attendance"
+					],
+					[
+						"mu",
+						"multi"
+					],
+					[
+						"ceh",
+						"check_out"
+					],
+					[
+						"Attan",
+						"Attendance"
+					],
+					[
+						"ch",
+						"check_out"
+					],
+					[
+						"employee",
+						"employee_id"
+					],
+					[
+						"to",
+						"toaddr"
+					],
+					[
+						"lab",
+						"lab_user"
+					],
+					[
+						"ir",
+						"ir_attachment"
+					],
+					[
+						"image",
+						"image_data"
+					],
+					[
+						"att",
+						"attachment_ids"
+					],
+					[
+						"lead",
+						"lead_id"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/controllers/main.py",
+					"settings":
+					{
+						"buffer_size": 2810,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/xml/template.xml",
+					"settings":
+					{
+						"buffer_size": 306,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "template.xml"
+					}
+				},
+				{
+					"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/__manifest__.py",
+					"settings":
+					{
+						"buffer_size": 1406,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/js/mass_mailing.js",
+					"settings":
+					{
+						"buffer_size": 1622,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/js/ajax.js",
+					"settings":
+					{
+						"buffer_size": 437,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "ajax.js"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/opt/pk",
+				"/opt/pk/opt",
+				"/opt/pk/opt/odoo",
+				"/opt/pk/opt/odoo/odoo-10.0",
+				"/opt/pk/opt/odoo/odoo-10.0/addons",
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing",
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/controllers",
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static",
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src",
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/js",
+				"/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/xml",
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons",
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons/backend_theme_v11",
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons/backend_theme_v11/controllers"
+			],
+			"file_history":
+			[
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons/backend_theme_v11/controllers/main.py",
+				"/opt/pk/opt/odoo/odoo-10.0/custom_addons/odoo_web_login/controllers/main.py",
+				"/opt/ivat_new/odoo-10.0/addons/crm/models/crm_lead.py",
+				"/ivatatt.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/test_script.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/crm/data/crm_data.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/security/ir.model.access.csv",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/views/hr_attendance_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/payroll_10/public_holiday.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import requests",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/security/mail_security.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/hr_employee.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/odoo/addons/base/ir/ir_attachment.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/ir_attachment_force_storage/__openerp__.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/hr_attendance.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/india_gst/views/gst_sale_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/ir_attachment_force_storage/pre_install.yml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard/mail_compose_message_view.xml",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/mail/wizard/mail_compose_message.py",
+				"/root/att12.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/custom_addons/file-exchange-7.0/abstract_automatic_task/__openerp__.py",
+				"/opt/ivat/opt/odoo/odoo-10.0/addons/hr_attendance/models/import psycopg2"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/opt/pk"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/controllers/main.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2810,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1263,
+										1263
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 239.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/xml/template.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 306,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										294,
+										294
+									]
+								],
+								"settings":
+								{
+									"auto_name": "template.xml",
+									"syntax": "Packages/XML/XML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/__manifest__.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1406,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										685,
+										685
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/js/mass_mailing.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1622,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										737,
+										737
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/opt/pk/opt/odoo/odoo-10.0/addons/mass_mailing/static/src/js/ajax.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 437,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										437,
+										437
+									]
+								],
+								"settings":
+								{
+									"auto_name": "ajax.js",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 29.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,65,24,705,532,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 330.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 5,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
